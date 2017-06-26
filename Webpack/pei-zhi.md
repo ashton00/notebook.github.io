@@ -1,5 +1,3 @@
-
-
 ## Webpack是什么？
 
 ![1](1.png)
@@ -10,14 +8,13 @@
 
 模块，在webpack中，官方的解释是：
 
-> webpack treats every file (.css, .html, .scss, .jpg, etc.) as a module
-
+> webpack treats every file \(.css, .html, .scss, .jpg, etc.\) as a module
+>
 > webpack 将每一个文件都当作一个模块，无论是css，html，scss，还是jpg文件
-
 
 ## Webpack 的配置
 
-官网 demo：[Getting Start](https://webpack.js.org/guides/getting-started/)
+官网 Demo：[Getting Start](https://webpack.js.org/guides/getting-started/)
 
 这里就不再赘述如何配置了，主要提一下需要注意的点
 
@@ -48,3 +45,6 @@ webpack --config my.config.js
     }
 }
 ```
+
+
+
